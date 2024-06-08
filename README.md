@@ -24,4 +24,5 @@ Implementasikan regresi untuk mencari hubungan tersebut menggunakan metode:
 * Model linear (Metode 1)
 * Model eksponensial (Metode 3)
 * Model lainnnya (Metode Polinomial)
+
 Hitung juga galat RMS dari tiap metode yang digunakan
