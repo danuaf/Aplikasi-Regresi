@@ -26,3 +26,13 @@ Implementasikan regresi untuk mencari hubungan tersebut menggunakan metode:
 * Model lainnnya (Metode Polinomial)
 
 Hitung juga galat RMS dari tiap metode yang digunakan
+
+### Hasil
+Hasil yang dipoleh oleh masing-masing metode dapat dilihat pada grafik dibawah : 
+![Hasil](img/img1.png)
+
+Tabel dibawah memperlihatkan komparasi hasil dari ketiga metode yang digunakan
+![Komparasi](img/img2.png)
+
+Berikut adalah hasil nilai RMS pada masing-masing metode : 
+![RMS](img/img3.png)
